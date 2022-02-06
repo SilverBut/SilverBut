@@ -9,4 +9,5 @@ I'm currently leaning Rust.
 - 🌱 I’m currently learning: Nothing including hacking
 - 💬 Ask me about: well....
 - 📫 How to reach me: try!
-- ⚡ Fun fact: I'm using Ethereum: 0xa55cF178190d1Ba7C18Fa942e18F2230076Fe1E8
+- ⚡ Fun fact: I'm using Ethereum: `0xa55cF178190d1Ba7C18Fa942e18F2230076Fe1E8`
+- ⚡⚡ Another Fun fact: I'm also using Bitcoin: `18u5PDhjjHrnnWwsDqZ94Jy6zJFxyRek8r`
